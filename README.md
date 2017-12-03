@@ -33,4 +33,4 @@ npm install
 node generator.js
 ```
 ### Here's an example run
-(http
+![Example Run](https://github.com/mrlynn/sizing-exercise-data-generator/blob/master/generator.gif)
