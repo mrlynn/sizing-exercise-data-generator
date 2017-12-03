@@ -1,0 +1,13 @@
+DBHOST=localhost
+# if you have auth enabled, use DBUSER
+#DBUSER=YOURNAME
+# if you have auth enabled, use DBPASS
+#DBPASS=YOURPASS
+DBNAME=YOURDB
+DBPORT=27017
+# if you have auth enabled use DBAUTH to specify in which DB your auth lives
+#DBAUTH=admin 
+COLLNAME=example
+DEBUG=true
+# How many example records would you like to generate?
+HOWMANY=10000
